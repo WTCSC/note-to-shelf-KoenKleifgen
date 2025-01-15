@@ -5,11 +5,13 @@
 ### Assingment details
 ---
 |The note shelf assignment tasked us with creating something that could 
+|The note shelf assignment tasked us with creating something that could 
 - Add things to a list
 - Show the list
 - Search for key terms used from words inside the list
 - Each item must show the time stam for when it was added
 
+|There were also some conditions that the code must follow
 |There were also some conditions that the code must follow
 
 - The code must be made in shell script
@@ -22,6 +24,7 @@
 ---
 ### What I did
 ---
+|to test my list i aded several things to it like 
 |to test my list i aded several things to it like 
 - ` `
 - `@!`
