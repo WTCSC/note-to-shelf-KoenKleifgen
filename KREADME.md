@@ -36,7 +36,7 @@ the ` ` is to see if i could do spaces (I could) and the `i like this list` and 
 were to test the `search` function testing things like `./note.sh search like` to see if both would come up 
 
 (they did) and `./note.sh search dont` to see if only a single one would come up.
----
+
 ![alt text](image.png)
 
 ***Koen Kleifgen***
